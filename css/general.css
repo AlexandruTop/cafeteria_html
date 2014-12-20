@@ -1006,7 +1006,7 @@ article .line-cake .cake {
   height: 28px;
   position: absolute;
   top: 0;
-  background: url("images/cake.png") no-repeat center;
+  background: url("images/cakeicon.png") no-repeat center;
 }
 article .line-cake .line {
   position: absolute;
@@ -1951,7 +1951,7 @@ section .center-align .top {
 /* ## Home Prices
 /* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
 .home-price {
-  background-image: url("http://placehold.it/1900x1509");
+  background-image: url("http://mooshworld.com/wp-content/uploads/2014/09/pretty-coffee-beans.jpeg");
 }
 .home-price .prices {
   padding-top: 160px;
@@ -3236,7 +3236,7 @@ blockquote p {
 /* Home Footer
 /* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
 .footer {
-  background-image: url("http://placehold.it/1900x1145");
+  background-image: url("http://1000fights.com/wp-content/uploads/gelato.jpg");
   background-position: 50% 0;
 }
 .footer.footer-small {
