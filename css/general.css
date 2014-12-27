@@ -3036,7 +3036,7 @@ section .center-align .top {
   height: 28px;
   position: absolute;
   top: 0;
-  background: url("images/cake-blue.png") no-repeat center;
+  background: url("images/cakeicon.png") no-repeat center;
 }
 .story-open .right .content .line-cake .line {
   position: absolute;
